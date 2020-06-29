@@ -1,0 +1,8 @@
+Check Starter - Payment Order - output 0
+Visit any UCPB branch and fill out a Stop Payment Order Form and pay the fee per check. Please make sure that your checking account has sufficient funds to avoid penalties for Returned Checks and Other Cash Items (RCOCI).
+You can also issue stop payment order through UCPB Connect and the UCPB Mobile Banking App.
+Click here for the complete list of service fees and charges:
+https://www.ucpb.com/rates/servicefeesandcharges/
+
+Click here for a list of UCPB branches near you:
+https://www.ucpb.com/branches/

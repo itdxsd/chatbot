@@ -1,0 +1,14 @@
+Emailme - Emailme - save
+
+#me
+Emailme
+
+#bot
+INTENT Emailme
+
+#me
+Emailme - save
+
+#bot
+Emailme - save - output 0
+INTENT Emailme - save

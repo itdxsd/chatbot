@@ -1,0 +1,14 @@
+OTC - OTC - WhereRenewACOP
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - WhereRenewACOP
+
+#bot
+OTC - WhereRenewACOP - output 0
+INTENT OTC - WhereRenewACOP

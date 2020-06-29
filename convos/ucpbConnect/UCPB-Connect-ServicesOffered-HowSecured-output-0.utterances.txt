@@ -1,0 +1,4 @@
+UCPB Connect - ServicesOffered - HowSecured - output 0
+The UCPB website is equipped with a Global Sign SSL Certificate, making sure that it is the official UCPB website.
+
+UCPB Connect’s two-factor authentication feature makes sure that the account owner is the one doing the transaction. Do not share your ATM PIN or UCPB Connect password to anyone to avoid unauthorized transactions.

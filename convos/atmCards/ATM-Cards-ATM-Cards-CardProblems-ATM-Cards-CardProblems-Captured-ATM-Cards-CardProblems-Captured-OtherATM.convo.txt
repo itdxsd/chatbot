@@ -1,0 +1,30 @@
+ATM Cards - ATM Cards - CardProblems - ATM Cards - CardProblems - Captured - ATM Cards - CardProblems - Captured - OtherATM
+
+#me
+ATM Cards
+
+#bot
+ATM Cards - output 0
+
+#bot
+BUTTONS ATM Card FAQs|PIN Mailer|Other Card Problems|Transaction Problems|ATM Withdrawal Limit|Contact Details|Main Menu
+
+
+#me
+Other Card Problems
+
+#bot
+BUTTONS My card is captured.|My card is blocked.|My card is lost.|ATM Card Replacement|EMV Card Menu
+
+#me 
+My card is captured
+
+#bot
+BUTTONS UCPB ATM|Other ATM Banks|EMV Card Menu
+
+#me
+Other ATM Banks
+
+#bot
+ATM Cards - CardProblems - Captured - OtherATM - output 0
+

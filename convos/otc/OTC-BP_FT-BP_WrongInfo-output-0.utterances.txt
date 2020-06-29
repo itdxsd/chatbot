@@ -1,0 +1,2 @@
+OTC - BP_FT - BP_WrongInfo - output 0
+Immediately contact the Biller to make the necessary adjustments and inform the UCPB branch that processed your payment to coordinate the error with the Biller.

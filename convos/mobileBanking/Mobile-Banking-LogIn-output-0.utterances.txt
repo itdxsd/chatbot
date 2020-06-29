@@ -1,0 +1,7 @@
+Mobile Banking - LogIn - output 0
+How do I log in UCPB Mobile Phone Banking?
+Please use your UCPB Connect User ID and password for both Online and Mobile Banking. 
+
+For your security, you will need to enter your login password and the One Time Password (OTP) to proceed. You have the option to receive your OTP between SMS or email address on file.  
+
+The OTP is valid per login.

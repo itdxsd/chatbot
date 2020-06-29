@@ -1,0 +1,27 @@
+Branches - Branches - BankingHours - Branches - BankingHours - Extended - Branches - BankingHours - Extended - Moreinfo
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - BankingHours
+
+#bot
+Branches - BankingHours - output 0
+INTENT Branches - BankingHours
+
+#me
+Branches - BankingHours - Extended
+
+#bot
+INTENT Branches - BankingHours - Extended
+
+#me
+Branches - BankingHours - Extended - Moreinfo
+
+#bot
+INTENT Branches - BankingHours - Extended - Moreinfo

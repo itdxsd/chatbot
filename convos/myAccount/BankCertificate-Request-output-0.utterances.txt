@@ -1,0 +1,7 @@
+BankCertificate - Request - output 0
+Visit your UCPB maintaining branch, fill out the required application form and pay the minimal fee to facilitate the request for bank certificate.
+
+A minimal fee will be charged for this transaction.
+
+Click here for a list of service fees and charges:
+https://www.ucpb.com/rates/servicefeesandcharges/

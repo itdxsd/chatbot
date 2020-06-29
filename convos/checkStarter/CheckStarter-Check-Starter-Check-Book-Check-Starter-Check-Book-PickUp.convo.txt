@@ -1,0 +1,21 @@
+CheckStarter - Check Starter - Check Book - Check Starter - Check Book - PickUp
+
+#me
+CheckStarter
+
+#bot
+CheckStarter - output 0
+INTENT CheckStarter
+
+#me
+Check Starter - Check Book
+
+#bot
+INTENT Check Starter - Check Book
+
+#me
+Check Starter - Check Book - PickUp
+
+#bot
+Check Starter - Check Book - PickUp - output 0
+INTENT Check Starter - Check Book - PickUp

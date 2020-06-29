@@ -1,0 +1,15 @@
+E-Statement - E-Statement - UpdateMail
+
+#me
+E-Statement
+
+#bot
+E-Statement - output 0
+INTENT E-Statement
+
+#me
+E-Statement - UpdateMail
+
+#bot
+E-Statement - UpdateMail - output 0
+INTENT E-Statement - UpdateMail

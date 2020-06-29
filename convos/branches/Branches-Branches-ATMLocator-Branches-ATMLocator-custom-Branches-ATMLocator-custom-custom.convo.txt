@@ -1,0 +1,27 @@
+Branches - Branches - ATMLocator - Branches - ATMLocator - custom - Branches - ATMLocator - custom - custom
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - ATMLocator
+
+#bot
+Branches - ATMLocator - output 0
+INTENT Branches - ATMLocator
+
+#me
+Branches - ATMLocator - custom
+
+#bot
+INTENT Branches - ATMLocator - custom
+
+#me
+Branches - ATMLocator - custom - custom
+
+#bot
+INTENT Branches - ATMLocator - custom - custom

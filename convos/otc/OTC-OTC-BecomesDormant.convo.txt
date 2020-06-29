@@ -1,0 +1,14 @@
+OTC - OTC - BecomesDormant
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - BecomesDormant
+
+#bot
+OTC - BecomesDormant - output 0
+INTENT OTC - BecomesDormant

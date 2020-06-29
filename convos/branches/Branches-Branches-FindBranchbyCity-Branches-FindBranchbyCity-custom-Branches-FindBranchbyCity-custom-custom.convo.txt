@@ -1,0 +1,27 @@
+Branches - Branches - FindBranchbyCity - Branches - FindBranchbyCity - custom - Branches - FindBranchbyCity - custom - custom
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - FindBranchbyCity
+
+#bot
+Branches - FindBranchbyCity - output 0
+INTENT Branches - FindBranchbyCity
+
+#me
+Branches - FindBranchbyCity - custom
+
+#bot
+INTENT Branches - FindBranchbyCity - custom
+
+#me
+Branches - FindBranchbyCity - custom - custom
+
+#bot
+INTENT Branches - FindBranchbyCity - custom - custom

@@ -1,0 +1,20 @@
+OTC - OTC - Withdrawal.Deposits - OTC - Withdrawal - Representative
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - Withdrawal.Deposits
+
+#bot
+INTENT OTC - Withdrawal.Deposits
+
+#me
+OTC - Withdrawal - Representative
+
+#bot
+OTC - Withdrawal - Representative - output 0
+INTENT OTC - Withdrawal - Representative

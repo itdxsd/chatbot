@@ -1,0 +1,3 @@
+Default Welcome Intent - output 0
+Hello $any! I'm PAT of UCPB, your Personal and proactive Assistant. How may I help you? 
+Can you tell me exactly what you’re looking for?

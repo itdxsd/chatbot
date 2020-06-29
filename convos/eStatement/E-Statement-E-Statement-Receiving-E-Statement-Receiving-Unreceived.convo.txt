@@ -1,0 +1,21 @@
+E-Statement - E-Statement - Receiving - E-Statement - Receiving - Unreceived
+
+#me
+E-Statement
+
+#bot
+E-Statement - output 0
+INTENT E-Statement
+
+#me
+E-Statement - Receiving
+
+#bot
+INTENT E-Statement - Receiving
+
+#me
+E-Statement - Receiving - Unreceived
+
+#bot
+E-Statement - Receiving - Unreceived - output 0
+INTENT E-Statement - Receiving - Unreceived

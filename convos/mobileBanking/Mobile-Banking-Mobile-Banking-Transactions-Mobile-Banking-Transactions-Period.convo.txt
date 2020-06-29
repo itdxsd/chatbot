@@ -1,0 +1,22 @@
+Mobile Banking - Mobile Banking - Transactions - Mobile Banking - Transactions - Period
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Transactions
+
+#bot
+Mobile Banking - Transactions - output 0
+INTENT Mobile Banking - Transactions
+
+#me
+Mobile Banking - Transactions - Period
+
+#bot
+Mobile Banking - Transactions - Period - output 0
+INTENT Mobile Banking - Transactions - Period

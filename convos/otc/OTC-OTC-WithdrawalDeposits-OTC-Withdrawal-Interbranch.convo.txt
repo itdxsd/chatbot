@@ -1,0 +1,20 @@
+OTC - OTC - Withdrawal.Deposits - OTC - Withdrawal - Interbranch
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - Withdrawal.Deposits
+
+#bot
+INTENT OTC - Withdrawal.Deposits
+
+#me
+OTC - Withdrawal - Interbranch
+
+#bot
+OTC - Withdrawal - Interbranch - output 0
+INTENT OTC - Withdrawal - Interbranch

@@ -1,0 +1,21 @@
+Mobile Banking - Mobile Banking - Availability - Mobile Banking - Availability - Network
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Availability
+
+#bot
+INTENT Mobile Banking - Availability
+
+#me
+Mobile Banking - Availability - Network
+
+#bot
+Mobile Banking - Availability - Network - output 0
+INTENT Mobile Banking - Availability - Network

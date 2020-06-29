@@ -1,0 +1,14 @@
+Info on new products and services - Info on new products and services - no
+
+#me
+Info on new products and services
+
+#bot
+INTENT Info on new products and services
+
+#me
+Info on new products and services - no
+
+#bot
+Info on new products and services - no - output 0
+INTENT Info on new products and services - no

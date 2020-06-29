@@ -1,0 +1,22 @@
+Loans - Loans - Procedures - Loans - Procedures - Amortization
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Procedures
+
+#bot
+Loans - Procedures - output 0
+INTENT Loans - Procedures
+
+#me
+Loans - Procedures - Amortization
+
+#bot
+Loans - Procedures - Amortization - output 0
+INTENT Loans - Procedures - Amortization

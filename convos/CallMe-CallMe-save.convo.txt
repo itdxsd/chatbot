@@ -1,0 +1,14 @@
+CallMe - CallMe - save
+
+#me
+CallMe
+
+#bot
+INTENT CallMe
+
+#me
+CallMe - save
+
+#bot
+CallMe - save - output 0
+INTENT CallMe - save

@@ -1,0 +1,14 @@
+OTC - OTC - BuyUSDollar
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - BuyUSDollar
+
+#bot
+OTC - BuyUSDollar - output 0
+INTENT OTC - BuyUSDollar

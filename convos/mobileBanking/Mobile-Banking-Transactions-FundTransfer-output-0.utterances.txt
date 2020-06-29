@@ -1,0 +1,5 @@
+Mobile Banking - Transactions - FundTransfer - output 0
+Can I transfer funds from my peso account to my dollar account and vice-versa for Mobile Phone Banking?
+Fund transfers can only be done between accounts having the same currency, that is, Peso to Peso transfers only.  
+
+For Dollar accounts, fund transfer can only be posted on account with the same currency and maintained at the same branch, and available only during banking days from 6:00 am to 10: 00 pm.

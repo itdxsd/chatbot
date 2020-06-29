@@ -1,0 +1,2 @@
+ClosingMessage - no - output 0
+Thank you for chatting with us! Have a great day. If you would like to continue chatting, just send me a message anytime.

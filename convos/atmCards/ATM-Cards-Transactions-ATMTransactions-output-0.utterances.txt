@@ -1,0 +1,3 @@
+ATM Cards - Transactions - ATMTransactions - output 0
+What to do if my account was debited but no cash was dispensed from your ATM?
+Please contact our ATM hotline number 811-9292 and report the failed transaction.  You will be required of the following details:  Full Name, ATM location, Date and Time of transaction, Amount debited, Account and Card number.

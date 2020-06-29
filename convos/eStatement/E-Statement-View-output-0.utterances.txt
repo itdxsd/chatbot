@@ -1,0 +1,5 @@
+E-Statement - View - output 0
+How can I view/open my UCPB eStatement file?
+You may access your UCPB eStatement through your computer with an Adobe Acrobat Reader (Version 7.0 or higher) or through your mobile phone or tablet.  
+
+For your protection, the attached PDF file is password-protected, which is the date of your birth in this format: DDMonthYYYY.

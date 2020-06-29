@@ -1,0 +1,4 @@
+Mobile Banking - ADB
+Is there a minimum Average Daily Balance (ADB) required to access UCPB Mobile Phone Banking?
+ADB
+Average Daily Balance

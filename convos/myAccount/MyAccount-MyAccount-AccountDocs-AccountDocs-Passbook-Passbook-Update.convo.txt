@@ -1,0 +1,26 @@
+MyAccount - MyAccount - AccountDocs - AccountDocs - Passbook - Passbook - Update
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - AccountDocs
+
+#bot
+INTENT MyAccount - AccountDocs
+
+#me
+AccountDocs - Passbook
+
+#bot
+INTENT AccountDocs - Passbook
+
+#me
+Passbook - Update
+
+#bot
+Passbook - Update - output 0
+INTENT Passbook - Update

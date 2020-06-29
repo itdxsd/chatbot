@@ -1,0 +1,2 @@
+UCPB Connect - ServicesOffered - Emoney - output 0
+The UCPB VISA eMoney Card is a reloadable card and is not considered a regular account so it cannot be enrolled in UCPB Connect and in the UCPB Mobile App.

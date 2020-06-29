@@ -1,0 +1,26 @@
+MyAccount - MyAccount - AccountDocs - AccountDocs - Passbook - Passbook - Lost
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - AccountDocs
+
+#bot
+INTENT MyAccount - AccountDocs
+
+#me
+AccountDocs - Passbook
+
+#bot
+INTENT AccountDocs - Passbook
+
+#me
+Passbook - Lost
+
+#bot
+Passbook - Lost - output 0
+INTENT Passbook - Lost

@@ -1,0 +1,22 @@
+UCPB Connect - UCPB Connect - ServicesOffered - UCPB Connect - ServicesOffered - Emoney
+
+#me
+UCPB Connect
+
+#bot
+UCPB Connect - output 0
+INTENT UCPB Connect
+
+#me
+UCPB Connect - ServicesOffered
+
+#bot
+UCPB Connect - ServicesOffered - output 0
+INTENT UCPB Connect - ServicesOffered
+
+#me
+UCPB Connect - ServicesOffered - Emoney
+
+#bot
+UCPB Connect - ServicesOffered - Emoney - output 0
+INTENT UCPB Connect - ServicesOffered - Emoney

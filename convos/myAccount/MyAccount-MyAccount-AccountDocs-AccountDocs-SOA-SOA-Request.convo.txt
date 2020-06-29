@@ -1,0 +1,26 @@
+MyAccount - MyAccount - AccountDocs - AccountDocs - SOA - SOA - Request
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - AccountDocs
+
+#bot
+INTENT MyAccount - AccountDocs
+
+#me
+AccountDocs - SOA
+
+#bot
+INTENT AccountDocs - SOA
+
+#me
+SOA - Request
+
+#bot
+SOA - Request - output 0
+INTENT SOA - Request

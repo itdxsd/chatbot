@@ -1,0 +1,3 @@
+Mobile Banking - Transactions - Notifications - output 0
+Will I receive a notification on every transaction I made through UCPB Mobile Phone Banking?
+Yes, you will receive notifications to your registered email address and mobile number.

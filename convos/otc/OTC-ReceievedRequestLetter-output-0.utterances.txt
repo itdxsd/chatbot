@@ -1,0 +1,5 @@
+OTC - ReceievedRequestLetter - output 0
+The letter indicates that your account has no activity (deposit/withdrawal/encashment) for a certain period of time. You are requested to visit any UCPB branch to make a deposit/withdrawal/encashment on or before the date specified in the letter to avoid having your account classified as dormant. 
+
+Click here for a list of UCPB branches near you:
+https://www.ucpb.com/branches/

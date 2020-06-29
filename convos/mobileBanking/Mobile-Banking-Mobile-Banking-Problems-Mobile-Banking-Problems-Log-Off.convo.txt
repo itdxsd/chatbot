@@ -1,0 +1,21 @@
+Mobile Banking - Mobile Banking - Problems - Mobile Banking - Problems - Log-Off
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Problems
+
+#bot
+INTENT Mobile Banking - Problems
+
+#me
+Mobile Banking - Problems - Log-Off
+
+#bot
+Mobile Banking - Problems - Log-Off - output 0
+INTENT Mobile Banking - Problems - Log-Off

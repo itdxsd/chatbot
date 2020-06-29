@@ -1,0 +1,14 @@
+Default Welcome Intent
+back to main menu there
+Good Day there
+Good Afternoon there
+Good morning there
+hello there
+hi pat there
+hello pat there
+AGREE there
+<GET_STARTED_PAYLOAD> there
+Keep chatting there
+hi there
+Get Started there
+Main menu there

@@ -1,0 +1,20 @@
+OTC - OTC - BP_FT - OTC - BP_FT - BP_WrongInfo
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - BP_FT
+
+#bot
+INTENT OTC - BP_FT
+
+#me
+OTC - BP_FT - BP_WrongInfo
+
+#bot
+OTC - BP_FT - BP_WrongInfo - output 0
+INTENT OTC - BP_FT - BP_WrongInfo

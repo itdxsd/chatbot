@@ -1,0 +1,8 @@
+ATM Cards - myAccountDebit - output 0
+Immediately call the UCPB ATM Center Hotline at (02) 811-9292 to report failed transactions. Please provide the following information:
+•  ATM location
+•  Date and time of 
+   transaction
+•  Amount debited
+•  Account and card 
+   number

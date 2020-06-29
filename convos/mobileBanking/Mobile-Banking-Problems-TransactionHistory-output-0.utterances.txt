@@ -1,0 +1,5 @@
+Mobile Banking - Problems - TransactionHistory - output 0
+How come I cannot view all of my previous transactions or transaction history in the UCPB Mobile Banking App?
+The Transaction History feature of your UCPB Mobile Banking app only shows transactions initiated through the mobile app. 
+
+The complete transaction history may be viewed by logging in UCPB Connect.

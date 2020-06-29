@@ -1,0 +1,3 @@
+OTC - BP_FT - HowSoon_RR
+Recipient Receive
+How soon will the recipient receive the funds transferred?

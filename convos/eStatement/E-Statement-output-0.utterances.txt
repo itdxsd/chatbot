@@ -1,0 +1,5 @@
+E-Statement - output 0
+The eStatement is the monthly statement of account for UCPB checking accountholders sent via their enrolled email address within five days after month-end.
+This statement indicates your account transactions for the month and the images of your issued checks that were cleared or negotiated during the period. 
+
+And to ensure that only the client can access the eStatement, this file is password-protected.

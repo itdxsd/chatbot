@@ -1,0 +1,26 @@
+MyAccount - MyAccount - AccountDocs - AccountDocs - BankCertificate - BankCertificate - RepPickup
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - AccountDocs
+
+#bot
+INTENT MyAccount - AccountDocs
+
+#me
+AccountDocs - BankCertificate
+
+#bot
+INTENT AccountDocs - BankCertificate
+
+#me
+BankCertificate - RepPickup
+
+#bot
+BankCertificate - RepPickup - output 0
+INTENT BankCertificate - RepPickup

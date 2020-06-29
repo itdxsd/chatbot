@@ -1,0 +1,2 @@
+OTC - When-AccDeducted - output 0
+A monthly service fee will be charged to your account whenever its balance falls below the minimum average daily balance requirement for two (2) consecutive months.

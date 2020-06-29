@@ -1,0 +1,22 @@
+Mobile Banking - Mobile Banking - Transactions - Mobile Banking - Transactions - FundTransfer
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Transactions
+
+#bot
+Mobile Banking - Transactions - output 0
+INTENT Mobile Banking - Transactions
+
+#me
+Mobile Banking - Transactions - FundTransfer
+
+#bot
+Mobile Banking - Transactions - FundTransfer - output 0
+INTENT Mobile Banking - Transactions - FundTransfer

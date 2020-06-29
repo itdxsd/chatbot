@@ -1,0 +1,6 @@
+Loans - Amortization - Computation - output 0
+How can I compute my monthly amortizations for my loan?
+Looking for a loan? Here's how you can compute for your monthly amortizations:
+•  Visit https://www.ucpb.com/loaneasy/
+•  Click on your selected LoanEasy product
+•  Use the loan calculator for a sample computation

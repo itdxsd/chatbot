@@ -1,0 +1,8 @@
+Remittance - Receiving - output 0
+Please make sure to provide the following information:
+•	Account Number
+•	Account Name
+•	Address
+•	Maintaining Branch
+
+Make sure that the details provided exactly match your maintaining branch record, ATM card or passbook to avoid inconvenience.

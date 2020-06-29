@@ -1,0 +1,31 @@
+ATM Cards - ATM Cards - FAQs - ATM Cards - FAQs - OTP - ATM Cards - FAQs - OTP - custom
+
+#me
+ATM Cards
+
+#bot
+ATM Cards - output 0
+
+#bot
+BUTTONS ATM Card FAQs|PIN Mailer|Other Card Problems|Transaction Problems|ATM Withdrawal Limit|Contact Details|Main Menu
+
+#me
+ATM Card Faqs
+
+#bot
+BUTTONS One-Time Password|CVV|Transaction Limit|Card Protection|International Use|Fees and Charges|EMV Card Menu
+
+#me
+OTP
+
+#bot
+ATM Cards - FAQs - OTP - output 0
+
+#bot
+BUTTONS Unreceived|EMV Card Menu
+
+#me
+Unreceived
+
+#bot
+ATM Cards - FAQs - OTP - custom - output 0

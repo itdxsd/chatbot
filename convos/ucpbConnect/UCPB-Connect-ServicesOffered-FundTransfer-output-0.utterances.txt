@@ -1,0 +1,11 @@
+UCPB Connect - ServicesOffered - FundTransfer - output 0
+Can I transfer funds to other Banks?
+Yes, you can transfer funds to other banks through UCPB Connect. Here’s how:
+•	Login to UCPB Connect
+•	Go to Transfers
+•	Click Interbank Fund Transfer
+
+Interbank fund transfers are subject to applicable fees.
+
+Click here for the complete list of service fees and charges:
+https://www.ucpb.com/rates/servicefeesandcharges/

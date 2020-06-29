@@ -1,0 +1,5 @@
+Mobile Banking - ADB - output 0
+Is there a minimum Average Daily Balance (ADB) required to access UCPB Mobile Phone Banking?
+There is no required Average Daily Balance to access the UCPB Mobile Phone Banking Service. 
+
+However, the Average Daily Balance required for the type of account you opened with the Bank to be maintained to avoid service charges for falling below the required ADB.

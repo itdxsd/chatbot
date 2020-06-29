@@ -1,0 +1,20 @@
+OTC - OTC - OtherServices - OTC - OtherServices - ManagersCheck
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - OtherServices
+
+#bot
+INTENT OTC - OtherServices
+
+#me
+OTC - OtherServices - ManagersCheck
+
+#bot
+OTC - OtherServices - ManagersCheck - output 0
+INTENT OTC - OtherServices - ManagersCheck

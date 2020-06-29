@@ -1,0 +1,14 @@
+OTC - OTC - HowtoCloseAcc
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - HowtoCloseAcc
+
+#bot
+OTC - HowtoCloseAcc - output 0
+INTENT OTC - HowtoCloseAcc

@@ -1,0 +1,4 @@
+Mobile Banking - OTP - ReceivingProblem
+I did not receive One Time Password (OTP) for Mobile Phone Banking.
+OTP Receive Problem
+OTP Receiving Problem

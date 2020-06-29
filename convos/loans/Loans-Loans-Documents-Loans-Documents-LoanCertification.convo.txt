@@ -1,0 +1,21 @@
+Loans - Loans - Documents - Loans - Documents - LoanCertification
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Documents
+
+#bot
+INTENT Loans - Documents
+
+#me
+Loans - Documents - LoanCertification
+
+#bot
+Loans - Documents - LoanCertification - output 0
+INTENT Loans - Documents - LoanCertification

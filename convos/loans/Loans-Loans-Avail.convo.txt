@@ -1,0 +1,15 @@
+Loans - Loans - Avail
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Avail
+
+#bot
+Loans - Avail - output 0
+INTENT Loans - Avail

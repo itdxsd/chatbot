@@ -1,0 +1,22 @@
+Mobile Banking - Mobile Banking - Transactions - Mobile Banking - Transactions - Notifications
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Transactions
+
+#bot
+Mobile Banking - Transactions - output 0
+INTENT Mobile Banking - Transactions
+
+#me
+Mobile Banking - Transactions - Notifications
+
+#bot
+Mobile Banking - Transactions - Notifications - output 0
+INTENT Mobile Banking - Transactions - Notifications

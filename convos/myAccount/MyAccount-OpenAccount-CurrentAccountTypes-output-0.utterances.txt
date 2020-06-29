@@ -1,0 +1,5 @@
+MyAccount - OpenAccount - CurrentAccountTypes - output 0
+UCPB has different types of current/checking account to choose from depending on your needs:
+•	CheckStarter https://www.ucpb.com/checkstarter/
+•	Regular Checking Account https://www.ucpb.com/
+•	Multi One Account https://www.ucpb.com/

@@ -1,0 +1,3 @@
+E-Money - output 0
+What is an E-Money Card?
+The E-Money Card is a reloadable ATM card and is not considered as a regular account.  Thus, it cannot be enrolled in UCPB Connect and UCPB Mobile Phone Banking.

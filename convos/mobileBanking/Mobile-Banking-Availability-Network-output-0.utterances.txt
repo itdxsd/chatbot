@@ -1,0 +1,3 @@
+Mobile Banking - Availability - Network - output 0
+Can I use the UCPB Mobile Phone Banking Service on any network?
+Yes, you can use the Mobile Phone Banking on any network as long as your username is active and you have an access to the internet.

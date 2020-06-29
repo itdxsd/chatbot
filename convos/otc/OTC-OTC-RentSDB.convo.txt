@@ -1,0 +1,14 @@
+OTC - OTC - RentSDB
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - RentSDB
+
+#bot
+OTC - RentSDB - output 0
+INTENT OTC - RentSDB

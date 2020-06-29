@@ -1,0 +1,10 @@
+Mobile Banking - Availability - Gadgets - output 0
+What phones and gadgets can I use for Mobile Banking?
+Any phone can be used for UCPB Mobile Banking provided they are using the ff versions.
+
+For Android :
+Oreo (8.0) / Nougat (7.0-7.12) / Marshmallow (6.0-6.0.1) / 
+Lollipop (5.0 – 5.1.10) / Kitkat (4.4-4.4.4) /  Jellybean (4.1-4.3.1) 
+
+For IOS :
+IOS versions (9.3 to 11)

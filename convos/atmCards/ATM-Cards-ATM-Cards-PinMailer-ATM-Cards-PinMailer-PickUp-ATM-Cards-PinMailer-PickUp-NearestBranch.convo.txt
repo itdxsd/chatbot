@@ -1,0 +1,32 @@
+ATM Cards - ATM Cards - PinMailer - ATM Cards - PinMailer - PickUp - ATM Cards - PinMailer - PickUp - NearestBranch
+
+#me
+ATM Cards
+
+#bot
+ATM Cards - output 0
+
+#bot
+BUTTONS ATM Card FAQs|PIN Mailer|Other Card Problems|Transaction Problems|ATM Withdrawal Limit|Contact Details|Main Menu
+
+#me
+Pin Mailer
+
+#bot
+BUTTONS Request|Pick-up|EMV Card Menu
+
+#me
+Pick-Up
+
+#bot
+ATM Cards - PinMailer - PickUp - output 0
+
+#bot 
+BUTTONS Pick-up by Rep|Nearest Branch|EMV Card Menu
+
+#me
+Nearest Branch
+
+#bot
+ATM Cards - PinMailer - PickUp - NearestBranch - output 0
+

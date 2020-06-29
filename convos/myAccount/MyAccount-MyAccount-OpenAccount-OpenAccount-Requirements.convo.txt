@@ -1,0 +1,21 @@
+MyAccount - MyAccount - OpenAccount - OpenAccount - Requirements
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - OpenAccount
+
+#bot
+MyAccount - OpenAccount - output 0
+INTENT MyAccount - OpenAccount
+
+#me
+OpenAccount - Requirements
+
+#bot
+OpenAccount - Requirements - output 0
+INTENT OpenAccount - Requirements

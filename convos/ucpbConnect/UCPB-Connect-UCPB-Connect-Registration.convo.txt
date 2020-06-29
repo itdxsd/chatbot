@@ -1,0 +1,15 @@
+UCPB Connect - UCPB Connect - Registration
+
+#me
+UCPB Connect
+
+#bot
+UCPB Connect - output 0
+INTENT UCPB Connect
+
+#me
+UCPB Connect - Registration
+
+#bot
+UCPB Connect - Registration - output 0
+INTENT UCPB Connect - Registration

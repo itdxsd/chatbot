@@ -1,0 +1,14 @@
+OTC - OTC - ReceievedRequestLetter
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - ReceievedRequestLetter
+
+#bot
+OTC - ReceievedRequestLetter - output 0
+INTENT OTC - ReceievedRequestLetter

@@ -1,0 +1,20 @@
+OTC - OTC - OtherServices - OTC - OtherServices - ForEx
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - OtherServices
+
+#bot
+INTENT OTC - OtherServices
+
+#me
+OTC - OtherServices - ForEx
+
+#bot
+OTC - OtherServices - ForEx - output 0
+INTENT OTC - OtherServices - ForEx

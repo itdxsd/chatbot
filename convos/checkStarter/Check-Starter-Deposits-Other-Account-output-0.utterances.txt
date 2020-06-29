@@ -1,0 +1,3 @@
+Check Starter - Deposits - Other Account - output 0
+Can I deposit my check to another person's account?
+The check can only be deposited to the payee's own bank account.

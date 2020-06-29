@@ -1,0 +1,14 @@
+OTC - OTC - USBAccAnyUCPBBank
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - USBAccAnyUCPBBank
+
+#bot
+OTC - USBAccAnyUCPBBank - output 0
+INTENT OTC - USBAccAnyUCPBBank

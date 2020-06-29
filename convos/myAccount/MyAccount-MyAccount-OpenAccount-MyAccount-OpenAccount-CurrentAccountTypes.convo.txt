@@ -1,0 +1,21 @@
+MyAccount - MyAccount - OpenAccount - MyAccount - OpenAccount - CurrentAccountTypes
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - OpenAccount
+
+#bot
+MyAccount - OpenAccount - output 0
+INTENT MyAccount - OpenAccount
+
+#me
+MyAccount - OpenAccount - CurrentAccountTypes
+
+#bot
+MyAccount - OpenAccount - CurrentAccountTypes - output 0
+INTENT MyAccount - OpenAccount - CurrentAccountTypes

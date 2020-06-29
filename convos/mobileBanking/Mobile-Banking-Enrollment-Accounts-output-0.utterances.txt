@@ -1,0 +1,5 @@
+Mobile Banking - Enrollment - Accounts - output 0
+What are the accounts that I can enroll in UCPB Mobile Phone Banking?
+You may enroll your UCPB Savings and/or Checking Account (Peso or Dollar).  
+
+At the moment, eMoney and foreign currency accounts cannot be enrolled in UCPB Connect and Mobile Phone Banking.

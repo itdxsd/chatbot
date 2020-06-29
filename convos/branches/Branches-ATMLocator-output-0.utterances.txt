@@ -1,0 +1,2 @@
+Branches - ATMLocator - output 0
+Please type a city or town (eg. Makati) where you would like to find Automated Teller Machine (cash machine).

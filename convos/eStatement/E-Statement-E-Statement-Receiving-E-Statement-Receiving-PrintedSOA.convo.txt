@@ -1,0 +1,21 @@
+E-Statement - E-Statement - Receiving - E-Statement - Receiving - PrintedSOA
+
+#me
+E-Statement
+
+#bot
+E-Statement - output 0
+INTENT E-Statement
+
+#me
+E-Statement - Receiving
+
+#bot
+INTENT E-Statement - Receiving
+
+#me
+E-Statement - Receiving - PrintedSOA
+
+#bot
+E-Statement - Receiving - PrintedSOA - output 0
+INTENT E-Statement - Receiving - PrintedSOA

@@ -1,0 +1,20 @@
+UserNoConcern - UserNoConcern - Phonenumber - UserNoConcern - Phonenumber - Save
+
+#me
+UserNoConcern
+
+#bot
+INTENT UserNoConcern
+
+#me
+UserNoConcern - Phonenumber
+
+#bot
+INTENT UserNoConcern - Phonenumber
+
+#me
+UserNoConcern - Phonenumber - Save
+
+#bot
+UserNoConcern - Phonenumber - Save - output 0
+INTENT UserNoConcern - Phonenumber - Save

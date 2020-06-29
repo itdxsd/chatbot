@@ -1,0 +1,5 @@
+Mobile Banking - OTP - Validity - output 0
+How long is the validity of the One Time Password (OTP) for Mobile Phone Banking?
+Your OTP is valid only for 5 minutes. 
+
+If you were unable to enter the OTP within the prescribed period, you may re-initiate another OTP.

@@ -1,0 +1,20 @@
+OTC - OTC - OtherServices - OTC - OtherServices - SDB
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - OtherServices
+
+#bot
+INTENT OTC - OtherServices
+
+#me
+OTC - OtherServices - SDB
+
+#bot
+OTC - OtherServices - SDB - output 0
+INTENT OTC - OtherServices - SDB

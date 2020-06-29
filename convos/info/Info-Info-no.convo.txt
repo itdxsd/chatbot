@@ -1,0 +1,14 @@
+Info - Info - no
+
+#me
+Info
+
+#bot
+INTENT Info
+
+#me
+Info - no
+
+#bot
+Info - no - output 0
+INTENT Info - no

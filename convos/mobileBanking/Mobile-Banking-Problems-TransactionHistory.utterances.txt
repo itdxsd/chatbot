@@ -1,0 +1,4 @@
+Mobile Banking - Problems - TransactionHistory
+How come I cannot view all of my previous transactions or transaction history in the UCPB Mobile Banking App?
+Transaction History
+View Transaction History

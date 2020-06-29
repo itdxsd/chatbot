@@ -1,0 +1,15 @@
+Remittance - Remittance - Sending
+
+#me
+Remittance
+
+#bot
+Remittance - output 0
+INTENT Remittance
+
+#me
+Remittance - Sending
+
+#bot
+Remittance - Sending - output 0
+INTENT Remittance - Sending

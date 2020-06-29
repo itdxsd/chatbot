@@ -1,0 +1,5 @@
+BankCertificate - RepPickup - output 0
+Can a representative pick up my requested Bank Certificate?
+Yes. Please make sure that you indicate the name of your authorized representative on the authorization portion of the Bank Certificate Application Form.
+
+The authorized representative must bring two (2) photo-bearing IDs upon pick-up of the bank certificate.

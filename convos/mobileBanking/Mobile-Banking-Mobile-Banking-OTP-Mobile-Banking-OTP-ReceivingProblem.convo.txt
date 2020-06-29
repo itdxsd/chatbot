@@ -1,0 +1,22 @@
+Mobile Banking - Mobile Banking - OTP - Mobile Banking - OTP - ReceivingProblem
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - OTP
+
+#bot
+Mobile Banking - OTP - output 0
+INTENT Mobile Banking - OTP
+
+#me
+Mobile Banking - OTP - ReceivingProblem
+
+#bot
+Mobile Banking - OTP - ReceivingProblem - output 0
+INTENT Mobile Banking - OTP - ReceivingProblem

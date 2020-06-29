@@ -1,0 +1,20 @@
+Branches - Branches - CashDepositMachine - Branches - CashDepositMachine - custom
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - CashDepositMachine
+
+#bot
+INTENT Branches - CashDepositMachine
+
+#me
+Branches - CashDepositMachine - custom
+
+#bot
+INTENT Branches - CashDepositMachine - custom

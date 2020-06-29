@@ -1,0 +1,8 @@
+ATM Cards - FAQs - CVV - output 0
+CVV means Card Verification Value.
+It is the 3 digit number 
+printed on the 
+signature strip 
+found at the back 
+of your UCPB 
+VISA Debit Card.

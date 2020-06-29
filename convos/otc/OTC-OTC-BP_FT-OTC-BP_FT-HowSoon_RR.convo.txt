@@ -1,0 +1,20 @@
+OTC - OTC - BP_FT - OTC - BP_FT - HowSoon_RR
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - BP_FT
+
+#bot
+INTENT OTC - BP_FT
+
+#me
+OTC - BP_FT - HowSoon_RR
+
+#bot
+OTC - BP_FT - HowSoon_RR - output 0
+INTENT OTC - BP_FT - HowSoon_RR

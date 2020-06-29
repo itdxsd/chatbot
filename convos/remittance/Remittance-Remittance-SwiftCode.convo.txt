@@ -1,0 +1,15 @@
+Remittance - Remittance - SwiftCode
+
+#me
+Remittance
+
+#bot
+Remittance - output 0
+INTENT Remittance
+
+#me
+Remittance - SwiftCode
+
+#bot
+Remittance - SwiftCode - output 0
+INTENT Remittance - SwiftCode

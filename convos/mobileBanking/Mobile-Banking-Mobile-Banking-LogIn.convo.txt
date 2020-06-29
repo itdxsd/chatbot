@@ -1,0 +1,15 @@
+Mobile Banking - Mobile Banking - LogIn
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - LogIn
+
+#bot
+Mobile Banking - LogIn - output 0
+INTENT Mobile Banking - LogIn

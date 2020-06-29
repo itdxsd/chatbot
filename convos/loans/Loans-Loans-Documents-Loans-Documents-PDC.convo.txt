@@ -1,0 +1,21 @@
+Loans - Loans - Documents - Loans - Documents - PDC
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Documents
+
+#bot
+INTENT Loans - Documents
+
+#me
+Loans - Documents - PDC
+
+#bot
+Loans - Documents - PDC - output 0
+INTENT Loans - Documents - PDC

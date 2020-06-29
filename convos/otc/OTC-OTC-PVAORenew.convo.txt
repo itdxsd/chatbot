@@ -1,0 +1,14 @@
+OTC - OTC - PVAORenew
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - PVAORenew
+
+#bot
+OTC - PVAORenew - output 0
+INTENT OTC - PVAORenew

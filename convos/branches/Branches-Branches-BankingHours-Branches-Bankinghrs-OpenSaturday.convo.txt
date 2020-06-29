@@ -1,0 +1,22 @@
+Branches - Branches - BankingHours - Branches - Bankinghrs - OpenSaturday
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - BankingHours
+
+#bot
+Branches - BankingHours - output 0
+INTENT Branches - BankingHours
+
+#me
+Branches - Bankinghrs - OpenSaturday
+
+#bot
+Branches - Bankinghrs - OpenSaturday - output 0
+INTENT Branches - Bankinghrs - OpenSaturday

@@ -1,0 +1,3 @@
+Mobile Banking - Availability - MultiplePhone - output 0
+Can I use the UCPB Mobile Phone Banking on more than one phone?
+You may access the mobile phone banking application on more than one phone using your log-in username and password.

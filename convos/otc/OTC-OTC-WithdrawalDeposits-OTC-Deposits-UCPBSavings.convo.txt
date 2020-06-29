@@ -1,0 +1,20 @@
+OTC - OTC - Withdrawal.Deposits - OTC - Deposits - UCPBSavings
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - Withdrawal.Deposits
+
+#bot
+INTENT OTC - Withdrawal.Deposits
+
+#me
+OTC - Deposits - UCPBSavings
+
+#bot
+OTC - Deposits - UCPBSavings - output 0
+INTENT OTC - Deposits - UCPBSavings

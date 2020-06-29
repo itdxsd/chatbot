@@ -1,0 +1,20 @@
+OTC - OTC - OtherServices - OTC - OtherServices - USBAccount
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - OtherServices
+
+#bot
+INTENT OTC - OtherServices
+
+#me
+OTC - OtherServices - USBAccount
+
+#bot
+OTC - OtherServices - USBAccount - output 0
+INTENT OTC - OtherServices - USBAccount

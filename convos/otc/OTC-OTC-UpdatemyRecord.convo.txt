@@ -1,0 +1,14 @@
+OTC - OTC - UpdatemyRecord
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - UpdatemyRecord
+
+#bot
+OTC - UpdatemyRecord - output 0
+INTENT OTC - UpdatemyRecord

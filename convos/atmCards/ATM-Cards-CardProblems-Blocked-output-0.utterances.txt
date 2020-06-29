@@ -1,0 +1,2 @@
+ATM Cards - CardProblems - Blocked - output 0
+Blocked ATM cards due to wrong PIN will automatically reactivate after 24 hours. If you can no longer remember the correct PIN, please visit or call your maintaining branch to request for a new PIN mailer.

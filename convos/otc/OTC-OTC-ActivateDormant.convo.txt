@@ -1,0 +1,14 @@
+OTC - OTC - ActivateDormant
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - ActivateDormant
+
+#bot
+OTC - ActivateDormant - output 0
+INTENT OTC - ActivateDormant

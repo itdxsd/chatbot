@@ -1,0 +1,3 @@
+Mobile Banking - Problems - Log-Off - output 0
+What will happen if I unintentionally forgot to log off in Mobile Banking? Or session timeout?
+If your account does not have a movement/ transaction for the last 5 minutes, the system will automatically log you out to prevent unauthorized users from accessing your account.

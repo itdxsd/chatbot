@@ -1,0 +1,21 @@
+MyAccount - MyAccount - OpenAccount - OpenAccount - HowTo
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - OpenAccount
+
+#bot
+MyAccount - OpenAccount - output 0
+INTENT MyAccount - OpenAccount
+
+#me
+OpenAccount - HowTo
+
+#bot
+OpenAccount - HowTo - output 0
+INTENT OpenAccount - HowTo

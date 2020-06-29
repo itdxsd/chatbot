@@ -1,0 +1,2 @@
+Loans - Repricing - output 0
+Re-pricing advice for the next period will be released 2 weeks after the last amortization payment for the period has been paid.

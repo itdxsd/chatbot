@@ -1,0 +1,7 @@
+E-Statement - Receiving - Unreceived - output 0
+Why have I not yet received my UCPB eStatement?
+Please check your inbox as it might be already full. Or your email facility might be treating the emailed UCPB eStatement as spam. Kindly check your Spam/Junk folder. 
+
+Please also add eStatement@ucpb.com to your address book so your future UCPB eStatements will be received as regular email.  
+
+Another reason might be your email address in our records is invalid. Please check and confirm that your preferred email address is correct.

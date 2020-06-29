@@ -1,0 +1,5 @@
+Mobile Banking - OTP - ReceivingProblem - output 0
+I did not receive One Time Password (OTP) for Mobile Phone Banking.
+Please login to UCPB Connect and click Edit Customer Profile to check if your mobile number and email address is updated.  
+
+Update/Edit if necessary then contact your maintaining branch for confirmation.

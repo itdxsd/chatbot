@@ -1,0 +1,22 @@
+UCPB Connect - UCPB Connect - ServicesOffered - UCPB Connect - ServicesOffered - FundTransfer
+
+#me
+UCPB Connect
+
+#bot
+UCPB Connect - output 0
+INTENT UCPB Connect
+
+#me
+UCPB Connect - ServicesOffered
+
+#bot
+UCPB Connect - ServicesOffered - output 0
+INTENT UCPB Connect - ServicesOffered
+
+#me
+UCPB Connect - ServicesOffered - FundTransfer
+
+#bot
+UCPB Connect - ServicesOffered - FundTransfer - output 0
+INTENT UCPB Connect - ServicesOffered - FundTransfer

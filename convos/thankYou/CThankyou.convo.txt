@@ -1,0 +1,8 @@
+CThankyou
+
+#me
+CThankyou
+
+#bot
+CThankyou - output 0
+INTENT CThankyou

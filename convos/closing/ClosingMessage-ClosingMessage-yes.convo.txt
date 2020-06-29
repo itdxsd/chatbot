@@ -1,0 +1,15 @@
+ClosingMessage - ClosingMessage - yes
+
+#me
+ClosingMessage
+
+#bot
+ClosingMessage - output 0
+INTENT ClosingMessage
+
+#me
+ClosingMessage - yes
+
+#bot
+ClosingMessage - yes - output 0
+INTENT ClosingMessage - yes

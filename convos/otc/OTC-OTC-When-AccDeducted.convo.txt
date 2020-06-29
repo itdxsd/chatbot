@@ -1,0 +1,14 @@
+OTC - OTC - When-AccDeducted
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - When-AccDeducted
+
+#bot
+OTC - When-AccDeducted - output 0
+INTENT OTC - When-AccDeducted

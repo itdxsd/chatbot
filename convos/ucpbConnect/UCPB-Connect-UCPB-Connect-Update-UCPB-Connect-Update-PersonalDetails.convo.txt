@@ -1,0 +1,21 @@
+UCPB Connect - UCPB Connect - Update - UCPB Connect - Update - PersonalDetails
+
+#me
+UCPB Connect
+
+#bot
+UCPB Connect - output 0
+INTENT UCPB Connect
+
+#me
+UCPB Connect - Update
+
+#bot
+INTENT UCPB Connect - Update
+
+#me
+UCPB Connect - Update - PersonalDetails
+
+#bot
+UCPB Connect - Update - PersonalDetails - output 0
+INTENT UCPB Connect - Update - PersonalDetails

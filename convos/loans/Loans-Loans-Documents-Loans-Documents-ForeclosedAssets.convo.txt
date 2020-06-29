@@ -1,0 +1,21 @@
+Loans - Loans - Documents - Loans - Documents - ForeclosedAssets
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Documents
+
+#bot
+INTENT Loans - Documents
+
+#me
+Loans - Documents - ForeclosedAssets
+
+#bot
+Loans - Documents - ForeclosedAssets - output 0
+INTENT Loans - Documents - ForeclosedAssets

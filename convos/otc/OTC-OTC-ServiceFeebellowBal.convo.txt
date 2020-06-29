@@ -1,0 +1,14 @@
+OTC - OTC - ServiceFeebellowBal
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - ServiceFeebellowBal
+
+#bot
+OTC - ServiceFeebellowBal - output 0
+INTENT OTC - ServiceFeebellowBal

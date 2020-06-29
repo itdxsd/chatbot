@@ -1,0 +1,23 @@
+ATM Cards - ATM Cards - WithdrawVisaDeb
+
+#me
+ATM Cards
+
+#bot
+ATM Cards - output 0
+
+#bot
+BUTTONS ATM Card FAQs|PIN Mailer|Other Card Problems|Transaction Problems|ATM Withdrawal Limit|Contact Details|Main Menu
+
+#me
+What to do if my account was debited but no cash was dispensed from your ATM?
+
+#bot
+Immediately call the UCPB ATM Center Hotline at (02) 811-9292 to report failed transactions. Please provide the following information:
+•  ATM location
+•  Date and time of
+   transaction
+•  Amount debited
+•  Account and card
+   number
+

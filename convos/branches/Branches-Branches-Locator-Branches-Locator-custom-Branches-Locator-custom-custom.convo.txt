@@ -1,0 +1,28 @@
+Branches - Branches - Locator - Branches - Locator - custom - Branches - Locator - custom - custom
+
+#me
+Branches
+
+#bot
+Branches - output 0
+INTENT Branches
+
+#me
+Branches - Locator
+
+#bot
+Branches - Locator - output 0
+INTENT Branches - Locator
+
+#me
+Branches - Locator - custom
+
+#bot
+Branches - Locator - custom - output 0
+INTENT Branches - Locator - custom
+
+#me
+Branches - Locator - custom - custom
+
+#bot
+INTENT Branches - Locator - custom - custom

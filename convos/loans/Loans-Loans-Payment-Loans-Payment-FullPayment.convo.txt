@@ -1,0 +1,21 @@
+Loans - Loans - Payment - Loans - Payment - FullPayment
+
+#me
+Loans
+
+#bot
+Loans - output 0
+INTENT Loans
+
+#me
+Loans - Payment
+
+#bot
+INTENT Loans - Payment
+
+#me
+Loans - Payment - FullPayment
+
+#bot
+Loans - Payment - FullPayment - output 0
+INTENT Loans - Payment - FullPayment

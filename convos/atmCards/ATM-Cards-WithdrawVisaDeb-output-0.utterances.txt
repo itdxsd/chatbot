@@ -1,0 +1,2 @@
+ATM Cards - WithdrawVisaDeb - output 0
+The default limit for ATM cash withdrawal is P20,000.00 per day. The maximum amount of withdrawal per transaction depends on the ATM you are using.

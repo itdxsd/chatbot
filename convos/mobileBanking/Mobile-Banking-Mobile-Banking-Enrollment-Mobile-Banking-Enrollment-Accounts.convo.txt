@@ -1,0 +1,22 @@
+Mobile Banking - Mobile Banking - Enrollment - Mobile Banking - Enrollment - Accounts
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Enrollment
+
+#bot
+Mobile Banking - Enrollment - output 0
+INTENT Mobile Banking - Enrollment
+
+#me
+Mobile Banking - Enrollment - Accounts
+
+#bot
+Mobile Banking - Enrollment - Accounts - output 0
+INTENT Mobile Banking - Enrollment - Accounts

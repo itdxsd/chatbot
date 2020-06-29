@@ -1,0 +1,20 @@
+OTC - OTC - Withdrawal.Deposits - OTC - Withdrawal -  Requirements
+
+#me
+OTC
+
+#bot
+INTENT OTC
+
+#me
+OTC - Withdrawal.Deposits
+
+#bot
+INTENT OTC - Withdrawal.Deposits
+
+#me
+OTC - Withdrawal -  Requirements
+
+#bot
+OTC - Withdrawal -  Requirements - output 0
+INTENT OTC - Withdrawal -  Requirements

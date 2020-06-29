@@ -1,0 +1,20 @@
+MyAccount - MyAccount - UpdateRecord - UpdateRecord - UpdateBankInfo
+
+#me
+MyAccount
+
+#bot
+INTENT MyAccount
+
+#me
+MyAccount - UpdateRecord
+
+#bot
+INTENT MyAccount - UpdateRecord
+
+#me
+UpdateRecord - UpdateBankInfo
+
+#bot
+UpdateRecord - UpdateBankInfo - output 0
+INTENT UpdateRecord - UpdateBankInfo

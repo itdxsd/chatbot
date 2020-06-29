@@ -1,0 +1,21 @@
+Mobile Banking - Mobile Banking - Problems - Mobile Banking - Problems - TransactionHistory
+
+#me
+Mobile Banking
+
+#bot
+Mobile Banking - output 0
+INTENT Mobile Banking
+
+#me
+Mobile Banking - Problems
+
+#bot
+INTENT Mobile Banking - Problems
+
+#me
+Mobile Banking - Problems - TransactionHistory
+
+#bot
+Mobile Banking - Problems - TransactionHistory - output 0
+INTENT Mobile Banking - Problems - TransactionHistory
